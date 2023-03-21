@@ -1,4 +1,13 @@
 
+/*
+ * Shreya B Deshpande
+ * This project is done through the course Codecademy 'Learn: Java'
+ * FizzBuzz is a challenge demonstrated with the help of creative use
+ * of coding knowledge in order to solve the problem.
+ * For multiples of both 3 and 5, it prints "Fizz Buzz"
+ * For multiples of 3, it prints "Fizz"
+ * For multiples of 5, it prints "Buzz"
+ */
 
 public class FizzBuzz 
 {
